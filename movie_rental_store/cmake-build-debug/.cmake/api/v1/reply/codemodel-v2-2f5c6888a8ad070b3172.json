@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "movie_rental_store",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "movie_rental_store::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-movie_rental_store-Debug-92a86b96f72aaf9e6888.json",
+					"name" : "movie_rental_store",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "movie_rental_store_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-movie_rental_store_autogen-Debug-d1efdb33e46db5d4cf48.json",
+					"name" : "movie_rental_store_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "movie_rental_store_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-movie_rental_store_autogen_timestamp_deps-Debug-2f97de78879850f46109.json",
+					"name" : "movie_rental_store_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug",
+		"source" : "C:/Users/alest/CLionProjects/oop/movie_rental_store"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

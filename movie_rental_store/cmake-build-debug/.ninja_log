@@ -1,0 +1,20 @@
+# ninja log v5
+10	123	7085171909571069	lab13_14_observer_autogen/timestamp	cd2373b4df9023bf
+10	123	7085171909571069	lab13_14_observer_autogen/mocs_compilation.cpp	cd2373b4df9023bf
+3115	3887	7085171943619312	lab13_14_observer.exe	4142c556b53cab5a
+3	544	7266184362024963	build.ninja	9816c66e22fc113f
+2	174	7266184745425030	movie_rental_store_autogen/timestamp	bdeaf2756227ab72
+2	174	7266184745425030	movie_rental_store_autogen/mocs_compilation.cpp	bdeaf2756227ab72
+2	174	7266184745425030	C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/movie_rental_store_autogen/timestamp	bdeaf2756227ab72
+2	174	7266184745425030	C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/movie_rental_store_autogen/mocs_compilation.cpp	bdeaf2756227ab72
+175	266	7266184747014777	CMakeFiles/movie_rental_store.dir/movie_rental_store_autogen/mocs_compilation.cpp.obj	b86b5f244f1dffe9
+178	753	7266184751875282	CMakeFiles/movie_rental_store.dir/domain/movie.cpp.obj	2f7d1712ffb86b29
+193	958	7266184753930406	CMakeFiles/movie_rental_store.dir/validators/validator.cpp.obj	42baf511088297fc
+189	1450	7266184758858079	CMakeFiles/movie_rental_store.dir/cart/cart.cpp.obj	2eec1a3f97901ed6
+181	1606	7266184760412976	CMakeFiles/movie_rental_store.dir/repository/repo.cpp.obj	dd1a236b62ef61de
+204	1633	7266184760698000	CMakeFiles/movie_rental_store.dir/ui/console.cpp.obj	5734aacec024fadb
+198	2194	7266184766298878	CMakeFiles/movie_rental_store.dir/service/service.cpp.obj	b6fd2583b8f2505e
+184	3454	7266184778906687	CMakeFiles/movie_rental_store.dir/main.cpp.obj	930ede978814e22e
+217	3569	7266184780050953	CMakeFiles/movie_rental_store.dir/cardGUI/cartGUI.cpp.obj	7b07fc38e1a5bf87
+210	3651	7266184780877577	CMakeFiles/movie_rental_store.dir/GUI/GUI.cpp.obj	88ea656c4ff0eb1b
+3651	4423	7266184785519322	movie_rental_store.exe	f8ab8e3c67b5af69

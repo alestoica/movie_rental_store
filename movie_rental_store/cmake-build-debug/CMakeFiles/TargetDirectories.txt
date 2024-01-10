@@ -1,0 +1,5 @@
+C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/CMakeFiles/movie_rental_store.dir
+C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/CMakeFiles/movie_rental_store_autogen_timestamp_deps.dir
+C:/Users/alest/CLionProjects/oop/movie_rental_store/cmake-build-debug/CMakeFiles/movie_rental_store_autogen.dir
